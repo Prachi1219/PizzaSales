@@ -26,6 +26,8 @@ Also calculate the preference of customers, the most disliked pizza, sales of di
 - Step 11: Added the KPI count to Dashboard in excel and linked the Dashboard to the Pivot table created using GETPIVOT function so that if any updates are done in Pivot table, it get automatically reflected in Dashboard.
 - Step 12: Created Pivot Table on order day and sum of orders column to get the daily trends and created chart by selecting the chart format under Home tab and then formatted the chart. Then validated the count with results obtained from sql queries created and populated the chart in dashboard.
 - Step 13: Created Pivot Table on order time and sum of orders column to get the hourly trends and created chart by selecting the chart format under Home tab and then formatted the chart. Then validated the count with results obtained from sql queries created and populated the chart in dashboard.
+  ##### Daily and hourly trends(Step 12 and 13)
+  ![DailyAndHourlyTrends](https://github.com/user-attachments/assets/89db46f0-b137-4a61-a795-6468c8b79bc9)
 - Step 14: Created Pivot Table on Pizza Category and Sum of total price column to get the percentage of sales by Pizza category and created chart by selecting the chart format under Home tab and then formatted the chart. Then validated the count with results obtained from sql queries created and populated the chart in dashboard.
 - Step 15: Created Pivot Table on Pizza Size and Sum of total price column to get the percentage of sales by Pizza Size and created chart by selecting the chart format under Home tab and then formatted the chart. Then validated the count with results obtained from sql queries created and populated the chart in dashboard.
 
