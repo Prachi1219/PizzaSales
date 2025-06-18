@@ -1,6 +1,7 @@
 # Pizza Sales Data Analysis
 
-### Dashboard screenshot: 
+### Dashboard screenshot: ![Dashboard](https://github.com/user-attachments/assets/e4fbd8a4-1e0a-4df0-b00d-42fb0a917ee7)
+
 
 ## Problem Statement
 
