@@ -27,7 +27,7 @@ Also calculate the preference of customers, the most disliked pizza, sales of di
 - Step 12: Created Pivot Table on order day and sum of orders column to get the daily trends and created chart by selecting the chart format under Home tab and then formatted the chart. Then validated the count with results obtained from sql queries created and populated the chart in dashboard.
 - Step 13: Created Pivot Table on order time and sum of orders column to get the hourly trends and created chart by selecting the chart format under Home tab and then formatted the chart. Then validated the count with results obtained from sql queries created and populated the chart in dashboard.
 
-    Daily and hourly trends(Step 12 and 13)
+    #### Daily and hourly trends(Step 12 and 13)
     ![DailyAndHourlyTrends](https://github.com/user-attachments/assets/89db46f0-b137-4a61-a795-6468c8b79bc9).
   
   
@@ -35,7 +35,7 @@ Also calculate the preference of customers, the most disliked pizza, sales of di
 - Step 15: Created Pivot Table on Pizza Size and Sum of total price column to get the percentage of sales by Pizza Size and created chart by selecting the chart format under Home tab and then formatted the chart. Then validated the count with results obtained from sql queries created and populated the chart in dashboard.
 - Step 16: Created Pivot Table on Pizza Category and Sum of total quantity column to get the sum of pizza sold by Pizza category and created chart by selecting the chart format under Home tab and then formatted the chart. Then validated the count with results obtained from sql queries created and populated the chart in dashboard.
 
-    Percentage of Pizza sold by pizza category, pizza size
+    #### Percentage of Pizza sold by pizza category, pizza size
     ![PercentageCharts](https://github.com/user-attachments/assets/6e31320e-f80f-42fe-b039-adf1f0b04538)
 
 - Step 17: Created Pivot Table on Pizza Name and Sum of total quantity column to get the Top 5 Pizza sellers and created chart by selecting the chart format under Home tab and then formatted the chart. Then validated the count with results obtained from sql queries created and populated the chart in dashboard.
